@@ -1,0 +1,17 @@
+{
+  "minimum_pass_rate": 1.0,
+  "cases": [
+    {
+      "id": "read",
+      "question": "What does Read return?",
+      "required": "content",
+      "fixture": "Read returns file content."
+    },
+    {
+      "id": "glob",
+      "question": "What does Glob return?",
+      "required": "paths",
+      "fixture": "Glob returns paths."
+    }
+  ]
+}

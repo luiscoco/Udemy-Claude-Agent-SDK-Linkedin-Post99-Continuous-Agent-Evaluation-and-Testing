@@ -1,0 +1,16 @@
+{
+  "lesson": 98,
+  "title": "Continuous Agent Evaluation and Testing",
+  "application": "Continuous Regression Gate",
+  "purpose": "Evaluate labelled scenarios with deterministic checks and execution-error accounting, then apply an explicit release threshold.",
+  "exercise": "Inject --fail-stage test_read and verify the release gate fails even if the other case passes.",
+  "source_topics": [
+    "00-Evaluación continua y pruebas de agentes.png",
+    "01-What-to-Evaluate.png",
+    "02-Build-a-Layered-Test-Suite.png",
+    "03-Run-a-Scenario-Suite.png",
+    "04-Set-Quality-Gates.png",
+    "05-Keep-Evaluating-in-Production.png",
+    "06-Evaluation-Pitfalls.png"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 98,
+  "application": "Continuous Regression Gate",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "cases": [
+      {
+        "id": "read",
+        "passed": true,
+        "execution_error": false
+      },
+      {
+        "id": "glob",
+        "passed": true,
+        "execution_error": false
+      }
+    ],
+    "pass_rate": 1.0,
+    "release_gate": true
+  },
+  "measured_cost_usd": null
+}
